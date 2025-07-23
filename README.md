@@ -1,2 +1,2 @@
-# pratica1
-Aula prática de química orgânica
+# Aula prática III
+Aula prática de dinâmica molecular - disciplina de química orgânica II
